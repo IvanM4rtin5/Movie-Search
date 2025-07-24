@@ -2,6 +2,8 @@
 
 Uma aplicação completa para pesquisa de filmes desenvolvida com React e Node.js que consome dados de uma API externa e permite pesquisar e visualizar detalhes dos filmes.
 
+![Image](https://github.com/IvanM4rtin5/Movie-Search/blob/main/app-movie/public/Captura%20de%20tela%202025-07-24%20185209.png)
+
 ## 📋 Funcionalidades
 
 - ✅ **Listagem de filmes** - Exibe todos os filmes disponíveis
